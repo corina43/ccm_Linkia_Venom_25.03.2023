@@ -39,8 +39,9 @@ Este proyecto requería una API funcional backend para el sistema de gestión de
 ## Stack
 Tecnologías utilizadas:
 <div alinear="centro">
-<a href="https://www.mongodb.com/">
+<a href="https://www.mysqldb.com/">
     <img src= "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src=""/>
 </a>
 <a href="https://www.expressjs.com/">
     <img src= "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
