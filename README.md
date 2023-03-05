@@ -5,16 +5,14 @@
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
 
-<em> Índice 📝</em>
 
    
 <detalles>
-  <summary>Contenido 📝</summary>
+   <summary> Índice 📝</summary> 
   <ol>
-    <li><a href="#objetivo">Objetivo</a></li>
     <li><a href="#sobre-el-proyecto">Sobre el proyecto</a></li>
-    <li><a href="#implementar-🚀">Implementar</a></li>
-    <li><a href="#stack">Apilar</a></li>
+    <li><a href="#objetivo">Objetivos</a></li>
+    <li><a href="#stack"Stack></a></li>
     <li><a href="#diagrama-bd">Diagrama</a></li>
     <li><a href="#instalacion-en-local">Instalacion</a></li>
     <li><a href="#endpoints">Puntos finales</a></li>
@@ -28,5 +26,14 @@
   </ol>
 </detalles>
 
+## Sobre el proyecto
+
+
+El proyecto consiste en desarrollar un sistema de gestión de citas para una clínica dental. 
+
+El backend de la aplicación está desarrollado en Node.js y utiliza una base de datos relacional con MySQL,Sequelize como ORM para interactuar con la base de datos y Express como framework de Node.js para la construcción de la API RESTful.
+
+
 ## objetivos
-Este proyecto requería una API funcional backend para el sistema de gestión de citas de una clínica dental que permita a los usuarios (pacientes, doctores, administradores) realizar diversas acciones en la base de datos (crear, leer, actualizar, eliminar) y gestionar las citas entre los pacientes y los doctores de la clínica. Además, el backend debe garantizar la seguridad de la información y la autenticación de los usuarios mediante el uso de tokens de acceso. El objetivo final es crear una aplicación eficiente y fácil de usar para gestionar las citas y los registros médicos de la clínica dental.
+Este proyecto requería una API funcional backend para el sistema de gestión de citas de una clínica dental que permita a los usuarios (pacientes, doctores, administradores) realizar diversas acciones en la base de datos (crear, leer, actualizar, eliminar) y gestionar las citas entre los pacientes y los doctores de la clínica. Además, el backend debe garantizar la seguridad de la información y la autenticación de los usuarios mediante el uso de tokens de acceso. El objetivo principal del proyecto es desarrollar un sistema robusto y escalable que permita a la clínica dental gestionar sus citas y pacientes de manera eficiente y efectiva.
+
