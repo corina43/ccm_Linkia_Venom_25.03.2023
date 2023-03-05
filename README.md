@@ -5,41 +5,9 @@
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
 
-<em> Indice </em>
+<em> Índice 📝</em>
 
-   Índice
-
-[Título e imagen de portada](#Título-e-imagen-de-portada)
-
-*[Insignias](#insignias)
-
-*[Índice](#índice)
-
-*[Descripción del proyecto](#descripción-del-codigo)
-
-*[Estado del proyecto](#Estado-del-proyecto)
-
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-*[Acceso al proyecto](#acceso-proyecto)
-
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-*[Personas Contribuyentes](#personas-contribuyentes)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
-
-#insignias
-
-
-IBUHUEFHEDIKUJIJFMNCDMNMVNCMDNVVCMXNVCN
-
-
-
+   
 <detalles>
   <summary>Contenido 📝</summary>
   <ol>
@@ -59,3 +27,6 @@ IBUHUEFHEDIKUJIJFMNCDMNMVNCMDNVVCMXNVCN
     <li><a href="#contacto">Contacto</a></li>
   </ol>
 </detalles>
+
+## objetivos
+Este proyecto requería una API funcional backend para el sistema de gestión de citas de una clínica dental que permita a los usuarios (pacientes, doctores, administradores) realizar diversas acciones en la base de datos (crear, leer, actualizar, eliminar) y gestionar las citas entre los pacientes y los doctores de la clínica. Además, el backend debe garantizar la seguridad de la información y la autenticación de los usuarios mediante el uso de tokens de acceso. El objetivo final es crear una aplicación eficiente y fácil de usar para gestionar las citas y los registros médicos de la clínica dental.
