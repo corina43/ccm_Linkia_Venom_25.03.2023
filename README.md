@@ -124,6 +124,9 @@ Para conseguir nuestro objetivo hemos recopilado información de:
 - link a documentacion de librerias externas
 - Videos YouTube
 - ...
+## Agradecimientos:
+
+Agradezco a mi compañero Ignacion por el apoyo,entendimiento y comprension.
 
 ## Contacto
 
