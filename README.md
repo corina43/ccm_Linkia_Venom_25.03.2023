@@ -15,8 +15,7 @@
     <li><a href="#stack">Stack</a></li>
     <li><a href="#diagrama-bd">Diagrama</a></li>
     <li><a href="#instalacion-en-local">Instalacion</a></li>
-    <li><a href="#endpoints">Puntos finales</a></li>
-    <li><a href="#futuras-funcionalidades">Futuras funcionalidades</a></li>
+    <li><a href="#endpoints">Realizacion de endpoints</a></li>
     <li><a href="#licencia">Licencia</a></li>
     <li><a href="#webgrafia">Webgrafia</a></li>
     <li><a href="#desarrollo">Desarrollo</a></li>
@@ -33,6 +32,7 @@ El backend de la aplicación está desarrollado con Sequelize como ORM para inte
 
 
 ## Objetivos
+
 Este proyecto requería una API funcional backend para el sistema de gestión de citas de una clínica dental que permita a los usuarios (pacientes, doctores, administradores) realizar diversas acciones en la base de datos (crear, leer, actualizar, eliminar) y gestionar las citas entre los pacientes y los doctores de la clínica. Además, el backend debe garantizar la seguridad de la información y la autenticación de los usuarios mediante el uso de tokens de acceso. El objetivo principal del proyecto es desarrollar un sistema robusto y escalable que permita a la clínica dental gestionar sus citas y pacientes de manera eficiente y efectiva.
 
 ## Stack
@@ -72,6 +72,7 @@ Tecnologías utilizadas:
 ## Puntos finales
 <detalles>
 <summary>Realizacion de endpoints</summary>
+
   - Creacion Perfil usuario
 
 
@@ -80,7 +81,7 @@ Se ha realizado en el controlador `authController` mediante la función createUs
 
    -Login
 
-   
+
 Se ha realizado en el controlador `authController` mediante la función  userLogin se encarga de autenticar a un usuario existente en la base de datos. Recibe las credenciales del usuario (correo electrónico y contraseña) a través del cuerpo de la solicitud. La función busca al usuario en la base de datos y verifica si la contraseña coincide con la contraseña cifrada almacenada en la base de datos. Si todo está en orden, se emite un token de autenticación JWT que contiene la información del usuario, como su ID de usuario, nombre de usuario y rol. La función devuelve el token de autenticación y un mensaje de éxito.
 
     
