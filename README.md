@@ -22,9 +22,11 @@ Este proyecto requería una API funcional conectada a una base de datos con al m
 
 Índice
 
-Introducción
+#Introducción
 
-Instalación
+1. Introducción
+
+2. Instalación
 
 Uso
 
