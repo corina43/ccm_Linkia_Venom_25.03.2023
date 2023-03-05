@@ -15,7 +15,7 @@
 
 *[Índice](#índice)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+*[Descripción del proyecto](#descripción-del-codigo)
 
 *[Estado del proyecto](#Estado-del-proyecto)
 
@@ -33,7 +33,10 @@
 
 *[Conclusión](#conclusión)
 
-#BUHUEFHEDIKUJIJFMNCDMNMVNCMDNVVCMXNVCN
+#insignias
+
+
+IBUHUEFHEDIKUJIJFMNCDMNMVNCMDNVVCMXNVCN
 
 
 
