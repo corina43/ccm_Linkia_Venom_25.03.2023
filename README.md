@@ -73,10 +73,14 @@ Tecnologías utilizadas:
 <detalles>
 <summary>Realizacion de endpoints</summary>
   - Creacion Perfil usuario
+
+
 Se ha realizado en el controlador `authController` mediante la función createUserProfile  se encarga de crear un nuevo usuario en la base de datos, recibiendo los datos del usuario a través del cuerpo de la solicitud. Primero, se verifica si los campos obligatorios están completos. Si no, la función devuelve un mensaje de error. Si todo está en orden, se cifra la contraseña y se crea un nuevo usuario en la base de datos. La función devuelve un mensaje de éxito y los datos del nuevo usuario creado.
 
 
    -Login
+
+   
 Se ha realizado en el controlador `authController` mediante la función  userLogin se encarga de autenticar a un usuario existente en la base de datos. Recibe las credenciales del usuario (correo electrónico y contraseña) a través del cuerpo de la solicitud. La función busca al usuario en la base de datos y verifica si la contraseña coincide con la contraseña cifrada almacenada en la base de datos. Si todo está en orden, se emite un token de autenticación JWT que contiene la información del usuario, como su ID de usuario, nombre de usuario y rol. La función devuelve el token de autenticación y un mensaje de éxito.
 
     
